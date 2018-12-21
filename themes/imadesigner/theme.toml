@@ -1,0 +1,14 @@
+name = "Imadesigner"
+license = "MIT"
+licenselink = "https://github.com/robertaarcoverde/blog/themes/imadesigner/LICENSE"
+description = "I'm a designer."
+min_version = "0.41"
+
+[author]
+  name = "roberta arcoverde"
+
+# If porting an existing theme
+[original]
+  name = "Hyde-X"
+  author = "Andrei Mihu"
+  repo = "https://github.com/zyro/hyde-x"

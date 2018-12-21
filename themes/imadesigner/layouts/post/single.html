@@ -1,0 +1,13 @@
+{{ partial "head.html" . }}
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <span class="post-date">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} minute read
+    {{ if isset .Params "tags" }}
+    <br/>
+    {{ range .Params.tags }}<a class="label" href="{{ "/tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+    {{ end }}</span>
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "footer.html" . }}
