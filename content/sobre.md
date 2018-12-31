@@ -7,7 +7,7 @@ menu: "main"
 
 Ohai o/
 
-Sou desenvolvedora de software há mais de uma década. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](http://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre toda sorte de coisas neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação.
+Sou desenvolvedora de software há mais de uma década. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](https://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre toda sorte de coisas neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação.
 
 Tentei compilar aí embaixo links de palestras e dos podcasts de que participei. Devo tentar manter esta página atualizada sempre que estiver entediada.
 

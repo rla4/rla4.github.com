@@ -1,10 +1,10 @@
-baseURL = "http://rla4.github.io/"
+baseURL = "https://rla4.github.io/"
 languageCode = "pt-br"
 title = "Roberta Arcoverde"
 theme = "imadesigner"
 
 [params]
-    github = "https://gitbhub.com/rla4"
+    github = "https://github.com/rla4"
     twitter = "https://twitter.com/rla4"
     stackoverflow = "https://stackoverflow.com/users/411343"
     linkedin = "https://www.linkedin.com/in/robertaarcoverde/"
