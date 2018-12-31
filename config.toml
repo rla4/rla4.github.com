@@ -1,4 +1,4 @@
-baseURL = "https://rla4.github.io/"
+baseURL = "https://rla4.netlify.com/"
 languageCode = "pt-br"
 title = "Roberta Arcoverde"
 theme = "imadesigner"
