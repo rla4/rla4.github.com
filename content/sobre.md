@@ -1,7 +1,6 @@
 ---
 title: "Sobre"
 date: 2018-08-13T18:37:42-03:00
-draft: true
 menu: "main"
 ---
 
