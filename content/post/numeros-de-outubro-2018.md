@@ -3,7 +3,7 @@ title: "Números De Outubro 2018"
 date: 2018-11-23T17:01:48-02:00
 ---
 
-Com o fim do ano se aproximando, chegou a hora de olhar pra trás e ver quantas das coisas que eu prometi que iria fazer foram, como esperado, devidamente negligenciadas. Inspirada nos posts do pothix, mas com muito menos competência, compilei alguns números que representam bem como foi meu mês de Outubro de 2018.
+Com o fim do ano se aproximando, chegou a hora de olhar pra trás e ver quantas das coisas que eu prometi que iria fazer foram, como esperado, devidamente negligenciadas. Inspirada nos posts do [pothix](https://pothix.com/tags/stats/), mas com muito menos competência, compilei alguns números que representam bem como foi meu mês de Outubro de 2018.
 
 ## Livros
 - *Total de livros:* 2
@@ -17,9 +17,11 @@ Esse ano me dispus a (tentar) ler 20 livros. Não curto audiobooks e não leio s
 
 Podcasts ouvidos este mês, em ordem alfabética: Braincast, Hanselminutes, Hipsters.tech, Histórias de Ninar para Garotas Rebeldes, Mamilos, Naruhodo, Nerdcast, Reply All, Science Vs, Um Milkshake Chamado Wanda. 
 
-Destaque para o episódio [sobre o prêmio Ig Nobel do Naruhodo](https://www.b9.com.br/97253/naruhodo-151-especial-premio-ig-nobel-2018-parte-1-de-2/) e para o [Autumn, do Reply All](https://www.gimletmedia.com/reply-all/129-autumn#episode-player). Destaque pra meu player favorito do momento - o [Pocket Casts](https://www.pocketcasts.com/), de onde tirei meu histórico mostrado parcialmente abaixo (do dia 11 ao dia 29 de outubro):
+Destaque para o episódio [sobre o prêmio Ig Nobel do Naruhodo](https://www.b9.com.br/97253/naruhodo-151-especial-premio-ig-nobel-2018-parte-1-de-2/) e para o [Autumn, do Reply All](https://www.gimletmedia.com/reply-all/129-autumn#episode-player). Destaque também pra meu player favorito do momento - o [Pocket Casts](https://www.pocketcasts.com/), de onde tirei meu histórico mostrado parcialmente abaixo (do dia 11 ao dia 29 de outubro):
 
 ![histórico de podcasts gerado pelo PocketCasts](/img/podcasts_outubro.png "histórico de podcasts gerado pelo PocketCasts")
+
+Muito grata à querida [Manu pela recomendação](https://blog.emanuelespies.es/podcasts-se-voce-nao-gosta-voce-esta-fazendo-errado/), tanto o player pra iOS quanto o web são maravilhosos.
 
 ## Trabalho
 - *Total de dias trabalhados:* 12 (sem contar com a confra da firma)
