@@ -2,13 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt" lang="pt-br">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>{{ .Title }} &middot; {{ .Site.Author.name }}</title>
-
-  <!-- CSS -->
+  <title>{{ .Title }}</title>
   <link rel="stylesheet" href="{{ "/css/poole.css" | absURL }}">
   <link rel="stylesheet" href="{{ "/css/hyde.css" | absURL }}">
   <link rel="stylesheet" href="{{ "/css/poole-overrides.css" | absURL }}">
@@ -18,18 +13,10 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   {{ with .Site.Params.customCSS }}<link rel="stylesheet" href="{{ . }}">{{ end }}
-
-  <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/touch-icon-144-precomposed.png" | absURL }}">
   <link href="{{ "/favicon.png" | absURL }}" rel="icon">
-
-  <!-- RSS -->
-  {{ $siteTitle := .Site.Title }}
-  {{ $authorName := .Site.Author.name }}
-  {{ with .RSSLink }}<link href="{{ . }}" rel="alternate" type="application/rss+xml" title="{{ $siteTitle }} &middot; {{ $authorName }}" />{{ end }}
-
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.defaultDescription }}{{ end }}">
-  <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{ if gt $index 0 }},{{ end }}{{ . }}{{ else }}{{ .Site.Params.defaultKeywords }}{{ end }}">
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
