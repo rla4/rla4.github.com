@@ -14,6 +14,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **[pt-br]**
 
+- [Hipsters.tech #129](https://hipsters.tech/praticas-de-orientacao-a-objetos-hipsters-129/), Práticas de Orientação a Objetos. Janeiro 2019.
 - [Hipsters.tech #125](https://hipsters.tech/mais-produtividade-hipsters-125/), Mais Produtividade. Dezembro 2018.
 - [Hipsters.tech #124](https://hipsters.tech/trabalhando-na-irlanda-hipsters-124/), Trabalhando na Irlanda. Novembro 2018.
 - [Hipsters.tech #123](https://hipsters.tech/historias-de-black-friday-hipsters-123/), Histórias de Black Friday. Novembro 2018.

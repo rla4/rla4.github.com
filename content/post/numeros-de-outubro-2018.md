@@ -1,5 +1,5 @@
 ---
-title: "Numeros De Outubro 2018"
+title: "Números De Outubro 2018"
 date: 2018-11-23T17:01:48-02:00
 ---
 
