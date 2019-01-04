@@ -1,4 +1,4 @@
-baseURL = "https://rla4.netlify.com/"
+baseURL = "https://rla4.com/"
 languageCode = "pt-br"
 title = "Roberta Arcoverde"
 theme = "imadesigner"
@@ -8,6 +8,7 @@ theme = "imadesigner"
     twitter = "https://twitter.com/rla4"
     stackoverflow = "https://stackoverflow.com/users/411343"
     linkedin = "https://www.linkedin.com/in/robertaarcoverde/"
+    googleAnalytics = "UA-131726283-1"
 
 [author]
     name = "roberta arcoverde"
