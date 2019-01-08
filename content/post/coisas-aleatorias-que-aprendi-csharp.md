@@ -12,15 +12,12 @@ Eu trabalho com C# há mais de dez anos. Já fiz certificação, trabalhei em pr
 - `is null` e `== null` são diferentes, e a primeira forma é preferível, evitando possíveis problemas causados por sobrecarga do operador de igualdade. [[ref]](https://twitter.com/rla4/status/1039909190712602625) de quando aprendi, e alguns links na thread
 - A sintaxe de inicialização de objetos, quando usada em coleções readonly, é traduzida em chamadas ao método `.Add` (e não em chamadas ao setter). O termo correto seria *collection initializer*. Exemplo:
 
-<pre>
-    <code class="csharp">
-        public List<SlackMessageAttachment> Attachments { get; } = new List<SlackMessageAttachment>();
-        // ...
-        var message = new SlackMessage()
-        {
-            Attachments = { attachment }
-        };
-    </code>
-</pre>
-
+```csharp
+    public List<Attachment> Attachments { get; } = new List<Attachment>();
+    // ...
+    var message = new SlackMessage()
+    {
+        Attachments = { attachment }
+    };
+```
 no caso acima, `Attachments` é uma propriedade readonly (veja que o setter não foi definido). A sintaxe de inicialização não falha pois é traduzida em uma chamada ao método `Add`. Veja que isso significa que sucessivas inicializações com esta mesma sintaxe **não** "limpam" a coleção. [[ref]](https://stackoverflow.com/questions/5646285/c-sharp-object-initialization-of-read-only-collection-properties)
