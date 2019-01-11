@@ -3,13 +3,15 @@ languageCode = "pt-br"
 title = "Roberta Arcoverde"
 theme = "imadesigner"
 
+enableEmoji = true
+pygmentsCodeFences = true
+
 [params]
     github = "https://github.com/rla4"
     twitter = "https://twitter.com/rla4"
     stackoverflow = "https://stackoverflow.com/users/411343"
     linkedin = "https://www.linkedin.com/in/robertaarcoverde/"
     googleAnalytics = "UA-131726283-1"
-    highlight = "dark"
 
 [author]
     name = "roberta arcoverde"
