@@ -1,5 +1,5 @@
 ---
-title: "Coisas Aleatórias Que Aprendi com C#"
+title: "Coisas Aleatórias Que Aprendi: C#"
 date: 2018-11-21T20:41:23-02:00
 ---
 

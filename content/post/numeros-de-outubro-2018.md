@@ -1,6 +1,7 @@
 ---
 title: "Números De Outubro 2018"
 date: 2018-11-23T17:01:48-02:00
+tags: ["stats"]
 ---
 
 Com o fim do ano se aproximando, chegou a hora de olhar pra trás e ver quantas das coisas que eu prometi que iria fazer foram, como esperado, devidamente negligenciadas. Inspirada nos posts do [pothix](https://pothix.com/tags/stats/), mas com muito menos competência, compilei alguns números que representam bem como foi meu mês de Outubro de 2018.

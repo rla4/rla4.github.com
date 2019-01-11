@@ -1,9 +1,10 @@
 ---
 title: "Números De Novembro 2018"
 date: 2018-12-31T16:42:13-02:00
+tags: ["stats"]
 ---
 
-Novembro foi um mês corrido. Mal deu tempo de criar uma conta no Netlify, descobrir que o GitHub não tem nenhuma forma de recuperar uma conta protegida por 2-fac authentication se você não tiver baixado os códigos de acessso, criar uma nova conta no GitHub e forkar meus repositórios, e fazer 33 anos. Ainda assim, fiquei feliz com os números do mês.
+Novembro foi um mês corrido. Mal deu tempo de criar uma conta no Netlify, descobrir que o GitHub não tem nenhuma forma de recuperar uma conta protegida por 2-fac authentication se você não tiver baixado os códigos de acesso, criar uma nova conta no GitHub e forkar meus repositórios, e fazer 33 anos. Ainda assim, fiquei feliz com os números do mês.
 
 ## Livros
 - *Total de livros:* 2
