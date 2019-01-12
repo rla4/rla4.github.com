@@ -2,9 +2,9 @@ baseURL = "https://rla4.com/"
 languageCode = "pt-br"
 title = "Roberta Arcoverde"
 theme = "imadesigner"
-
 enableEmoji = true
 pygmentsCodeFences = true
+pygmentsStyle = "monokai"
 
 [params]
     github = "https://github.com/rla4"
