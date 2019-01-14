@@ -1,7 +1,6 @@
 ---
 title: "Debugando um Script de Build"
 date: 2019-01-11T16:42:30-02:00
-draft: true
 tags: ["code", "msbuild"]
 ---
 
