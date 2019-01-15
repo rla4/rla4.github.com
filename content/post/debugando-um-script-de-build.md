@@ -87,7 +87,7 @@ Viu a diferença? Aparentemente o build do meu script não estava incluindo os a
 
 ## Logs binários
 
-Eu já tinha usado o MSBuild Log Viewer há muito tempo, pra tentar otimizar o tempo de compilação de um projeto. Dessa vez, pedi a ajuda dos meus colegas Nick e Dean, desenvolvedores do `dev-local-setup`, pra tentarmos juntos decifrar o que estava acontecendo.
+Eu já tinha usado o MSBuild Log Viewer há muito tempo, pra tentar otimizar o tempo de compilação de um projeto. Dessa vez, pedi a ajuda dos meus colegas [Nick](https://twitter.com/Nick_Craver) e [Dean](https://twitter.com/deanward81), desenvolvedores originais do `dev-local-setup`, pra tentarmos juntos decifrar o que estava acontecendo.
 
 Para gerar o arquivo de log binário, podemos passar a flag `bl` no comando de build. No nosso caso, o comando inteiro ficou assim:
 
