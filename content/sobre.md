@@ -12,8 +12,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 <small>*Disclaimer: this will probably be the only paragraph in this site written in English. I really like sharing knowledge and things I've built with various software development communities. That mainly takes the form of speaking at conferences, meetups and podcasts. You can find a number of links to things I've done below.*</small>
 
-**[pt-br]**
+**Podcasts [pt-br]**
 
+- [Hipsters.tech #134](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/), Primeiros Passos em Data Science. Fevereiro 2019.
 - [Hipsters.tech #133](https://hipsters.tech/podcasts-jornalismo-e-cbn-hipsters-133/), Podcasts, Jornalismo e CBN. Janeiro 2019.
 - [Hipsters.tech #132](https://hipsters.tech/lua-brasil-e-games-hipsters-132/), Lua, Brasil e Games. Janeiro 2019.
 - [Hipsters.tech #129](https://hipsters.tech/praticas-de-orientacao-a-objetos-hipsters-129/), Práticas de Orientação a Objetos. Janeiro 2019.
@@ -39,6 +40,6 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Reescrevendo um Processador de Mensagens](https://www.youtube.com/watch?v=qP4Jb9UBLsQ), palestra dada no DNAD. Setembro 2015.
 - [Perfil no InfoQ](https://www.infoq.com/br/profile/Roberta-Arcoverde), com algumas palestras e entrevistas.
 
-**[en]**
+**Podcasts [en]**
 
 - [Stack Overflow Podcast #64](https://stackoverflow.blog/2015/05/11/stack-exchange-podcast-64-diverse-hiring-and-a-cat-named-alan-turing/), Diverse Hiring and a Cat Named Alan Turing. Maio 2015.
