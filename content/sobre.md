@@ -14,6 +14,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts [pt-br]**
 
+- [Hipsters.tech #135](https://hipsters.tech/carros-eletricos-e-programacao-hipsters-135/), Carros Elétricos e Programação. Fevereiro 2019.
 - [Hipsters.tech #134](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/), Primeiros Passos em Data Science. Fevereiro 2019.
 - [Hipsters.tech #133](https://hipsters.tech/podcasts-jornalismo-e-cbn-hipsters-133/), Podcasts, Jornalismo e CBN. Janeiro 2019.
 - [Hipsters.tech #132](https://hipsters.tech/lua-brasil-e-games-hipsters-132/), Lua, Brasil e Games. Janeiro 2019.
