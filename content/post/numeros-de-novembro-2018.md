@@ -16,7 +16,7 @@ Em novembro li os livros 18 e 19 do ano, ficando bem perto de bater a meta de vi
 - *Total de episódios:* 19
 - *Total de minutos escutados:* 1243 (ou, 20 horas e 43 minutos)
 
-Podcasts ouvidos este mês, em ordem alfabética: Astronomy Cast, Braincast, Foro de Teresina, Function with Anil Dash, Hipsters.tech, Histórias de Ninar para Garotas Rebeldes, Mamilos, Naruhodo, Nerdcast,  Xadrez Verbal.
+Podcasts ouvidos este mês, em ordem alfabética: Astronomy Cast, Braincast, Foro de Teresina, Function with Anil Dash, Hipsters.tech, Histórias de Ninar para Garotas Rebeldes, Mamilos, Naruhodo, Nerdcast, Xadrez Verbal.
 
 Destaque para o episódio [do Mamilos sobre Funk](https://www.b9.com.br/99334/mamilos-170-vou-passar-cerol-na-mao/) e para todos os episódios do [Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/) - grata surpresa.
 
