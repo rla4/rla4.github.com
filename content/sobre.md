@@ -12,6 +12,13 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 <small>*Disclaimer: this will probably be the only paragraph in this site written in English. I really like sharing knowledge and things I've built with various software development communities. That mainly takes the form of speaking at conferences, meetups and podcasts. You can find a number of links to things I've done below.*</small>
 
+**Talks e afins - 2019**
+
+- [Women Dev Summit](http://womendevsummit.com/): 08 e 09 de março, São Paulo - SP
+- [Code Like a Girl](https://braziljs.org/blog/code-like-a-girl/): 29 de março, São Paulo - SP
+- [QCon SP](https://qconsp.com/): 06, 07 e 08 de maio, São Paulo - SP
+- [Brasília Dev Festival](https://twitter.com/bsbdevfestival): 21 de setembro, Brasília - DF
+
 **Podcasts [pt-br]**
 
 - [Hipsters.tech #137](https://hipsters.tech/desafios-em-machine-learning-hipsters-137/), Desafios em Machine Learning. Fevereiro 2019.
