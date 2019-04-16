@@ -17,10 +17,14 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Women Dev Summit](http://womendevsummit.com/): 08 e 09 de março, São Paulo - SP
 - [Code Like a Girl](https://braziljs.org/blog/code-like-a-girl/): 29 de março, São Paulo - SP
 - [QCon SP](https://qconsp.com/): 06, 07 e 08 de maio, São Paulo - SP
+- [DevDay](https://devday.devisland.com/): 24 de agosto, Belo Horizonte - MG
 - [Brasília Dev Festival](https://twitter.com/bsbdevfestival): 21 de setembro, Brasília - DF
 
 **Podcasts [pt-br]**
 
+- [Hipsters.tech #144](https://hipsters.tech/tendencias-em-tecnologia-pra-2020-hipsters-144/), Tendências em Tecnologia para 2020. Abril, 2019.
+- [Hipsters.tech #143](https://hipsters.tech/canais-de-tecnologia-no-youtube-hipsters-143/), Canais de Tecnologia no Youtube. Abril, 2019.
+- [Hipsters.tech #142](https://hipsters.tech/angular-vs-react-hipsters-142/), Angular vs React. Abril, 2019.
 - [Hipsters.tech #137](https://hipsters.tech/desafios-em-machine-learning-hipsters-137/), Desafios em Machine Learning. Fevereiro 2019.
 - [Hipsters.tech #135](https://hipsters.tech/carros-eletricos-e-programacao-hipsters-135/), Carros Elétricos e Programação. Fevereiro 2019.
 - [Hipsters.tech #134](https://hipsters.tech/primeiros-passos-em-data-science-do-excel-e-bi-ao-python-hipsters-134/), Primeiros Passos em Data Science. Fevereiro 2019.
