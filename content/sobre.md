@@ -22,6 +22,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts [pt-br]**
 
+- [Hipsters.tech #148](https://hipsters.tech/react-native-hipsters-148/), React Native. Maio, 2019.
+- [Hipsters.tech #146](https://hipsters.tech/assistentes-de-voz-futuro-sem-telas-hipsters-ponto-tech-146/), Assistentes de Voz: Futuro sem Telas. Abril, 2019.
+- [Hipsters.tech #145](https://hipsters.tech/tecnologias-no-mercadolivre-hipsters-ponto-tech-145/), Tecnologias no Mercado Livre. Abril, 2019.
 - [Hipsters.tech #144](https://hipsters.tech/tendencias-em-tecnologia-pra-2020-hipsters-144/), Tendências em Tecnologia para 2020. Abril, 2019.
 - [Hipsters.tech #143](https://hipsters.tech/canais-de-tecnologia-no-youtube-hipsters-143/), Canais de Tecnologia no Youtube. Abril, 2019.
 - [Hipsters.tech #142](https://hipsters.tech/angular-vs-react-hipsters-142/), Angular vs React. Abril, 2019.
