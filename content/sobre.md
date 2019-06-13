@@ -22,6 +22,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts [pt-br]**
 
+- [Hipsters.tech #152](https://hipsters.tech/overengineering-hipsters-142/), Overengineering. Junho, 2019.
+- [NerdTech #40](https://jovemnerd.com.br/nerdcast/nerdtech/desculpas-e-gambiarras-de-programador/), Desculpas e Gambiarras de Programador. Junho, 2019.
+- [Hipsters.tech #151](https://hipsters.tech/tecnologia-e-produto-no-instagram-hipsters-151/), Tecnologia e Produto no Instagram. Junho, 2019.
+- [Hipsters.tech #150](https://hipsters.tech/tecnologias-no-nubank-3-anos-depois-hipsters-150/), Tecnologias no Nubank. Maio, 2019.
 - [Hipsters.tech #148](https://hipsters.tech/react-native-hipsters-148/), React Native. Maio, 2019.
 - [Hipsters.tech #146](https://hipsters.tech/assistentes-de-voz-futuro-sem-telas-hipsters-ponto-tech-146/), Assistentes de Voz: Futuro sem Telas. Abril, 2019.
 - [Hipsters.tech #145](https://hipsters.tech/tecnologias-no-mercadolivre-hipsters-ponto-tech-145/), Tecnologias no Mercado Livre. Abril, 2019.
