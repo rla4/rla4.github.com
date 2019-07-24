@@ -22,6 +22,11 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts [pt-br]**
 
+- [Hipsters.tech #158](https://hipsters.tech/programacao-funcional-e-clojure-hipsters-158/), Programação Funcional e Clojure. Julho, 2019.
+- [Algoritmo G #1](https://www.b9.com.br/111600/algoritmo-g-1-mulher-nao-e-boa-em-exatas/), Mulher não é boa em exatas. Julho, 2019.
+- [Hipsters.tech #156](https://hipsters.tech/vida-e-obra-john-carmack-hipsters-ponto-tech-156/), Vida e Obra: John Carmack. Julho, 2019.
+- [NerdTech #41](https://jovemnerd.com.br/nerdcast/nerdtech/seguranca-digital/), Segurança Digital. Julho, 2019.
+- [Hipsters.tech #154](https://hipsters.tech/testes-de-software-e-inteligencia-artificial-hipsters-154/), Testes de Software e Inteligência Artificial. Junho, 2019.
 - [Hipsters.tech #152](https://hipsters.tech/overengineering-hipsters-142/), Overengineering. Junho, 2019.
 - [NerdTech #40](https://jovemnerd.com.br/nerdcast/nerdtech/desculpas-e-gambiarras-de-programador/), Desculpas e Gambiarras de Programador. Junho, 2019.
 - [Hipsters.tech #151](https://hipsters.tech/tecnologia-e-produto-no-instagram-hipsters-151/), Tecnologia e Produto no Instagram. Junho, 2019.

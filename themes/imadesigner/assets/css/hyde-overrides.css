@@ -18,3 +18,8 @@
   list-style: none;
   margin-bottom: 1rem;
 }
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
