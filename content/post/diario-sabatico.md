@@ -28,3 +28,37 @@ Hoje teve gravação de podcast, treino, faxina e outras atividades cotidianas q
 
 - [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): primeiro movimento dominado, segundo também, agora tou focando na terceira parte
 - [Gavotte de Gossec](https://www.youtube.com/watch?v=2-eyvN3XEls): tentei focar só na ligação. deu uma melhorada. hoje meu ombro já não doeu.
+
+# Dia 3: 24/07/2019
+
+SHAME ON ME não fiz nada
+
+# Dia 4: 25/07/2019
+
+Hoje deu pra estudar ressonâncias e um pouco do disco 2 do Suzuki. Impressionante como sempre jogo a mão pra frente quando não tenho segurança na música - aumentando a afinação.
+
+**Tempo de estudo**: 30min teoria + 35min prática
+
+**Músicas praticadas**:
+
+- [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): a música é fácil, mas qualquer micro desafinação fica muito evidente. Claro que ainda não domino
+- [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8): na terceira parte ainda erro muito o lá :(
+- [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): desastre total em termos de afinação
+
+# Dia 5: 26/07/2019
+
+SHAME ON ME não fiz nada
+
+# Dia 6: 27/07/2019
+
+Volta às raízes - hoje pratiquei várias músicas do disco 1. tomei duas caipirinhas no almoço, então foi um desastre.
+
+**Tempo de estudo**: 30min prática
+
+**Músicas praticadas**:
+
+- [Étude](https://www.youtube.com/watch?v=gZ5IJm_yTZM): disco um, toquei tranquila. o staccato foi ignorado e toquei com arco "piano" mesmo
+- [Minueto 3 de Bach](https://www.youtube.com/watch?v=fGhTz7MgtkM): a cachaça atrapalhou a afinação, o arco foi 8/10
+- [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): pra relaxar e não irritar os vizinhos
+- [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8): melhor que ontem, ainda errando a afinação
+- [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): nem passei do segundo movimento
