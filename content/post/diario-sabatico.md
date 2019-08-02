@@ -51,9 +51,9 @@ SHAME ON ME não fiz nada
 
 # Dia 6: 27/07/2019
 
-Volta às raízes - hoje pratiquei várias músicas do disco 1. tomei duas caipirinhas no almoço, então foi um desastre.
+Volta às raízes - hoje pratiquei várias músicas do disco 1. Tomei duas caipirinhas no almoço, então foi um desastre. Também terminei de estudar a Introdução ao Barroco, aprendi sobre *overtures* e sobre a vida e obra de Handel - compositor de Judas Maccabaeus! Acho que agora finalmente vamos entrar em Bach.
 
-**Tempo de estudo**: 30min prática
+**Tempo de estudo**: 25min teoria + 30min prática
 
 **Músicas praticadas**:
 
@@ -62,3 +62,30 @@ Volta às raízes - hoje pratiquei várias músicas do disco 1. tomei duas caipi
 - [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): pra relaxar e não irritar os vizinhos
 - [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8): melhor que ontem, ainda errando a afinação
 - [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): nem passei do segundo movimento
+
+# Dia 7: 28/07/2019
+
+Não deu pra praticar pois fiquei com vergonha dos meus sogros, que estão passando uma temporada aqui em casa. Mas deu pra estudar partitura! Praticamente tenho lido várias partituras e tentado identificar as notas em "tempo real". Ainda engasgo principalmente nas notas que "saem da pauta" (seja pra cima ou pra baixo, se é que você me entende).
+
+**Tempo de estudo**: 32min teoria
+
+# Dia 8: 29/07/2019
+
+SHAME ON ME não fiz nada
+
+# Dias 9, 10 e 11: 30/07/2019, 31/07/2019 e 01/08/2019
+
+SHAME ON ME não fiz nada, mas tenho justificativa: esposa foi internada pra uma cirurgia e passei esses dias no hospital com ela. Sem tempo, irmão.
+
+# Dia 12: 02/08/2019
+
+Esposa ainda internada, mas hoje tive um tempo livre à tarde. Fiz um estudo mais longo, revendo várias músicas do disco 1 e chegando até o Hunter's Chorus. Também fiz as ressonâncias. Hoje minha maior dificuldade foi acertar a afinação, que depois de tantos dias sem prática já estava capenga. Meu ombro doeu um pouco, provavelmente pela tensão.
+
+**Tempo de estudo**: 40min prática
+
+**Músicas praticadas**:
+
+- Aquecimento: as quatro primeiras músicas do Suzuki Disco 1
+- [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): toquei umas 3 vezes, o Si tá caindo meio alto às vezes (o que acaba interferindo na afinação do Dó e do Ré também)
+- [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8): tentei praticar em full speed e errei muito o arco. melhorou quando passei o metrônomo pra 1/2
+- [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): nem passei do segundo movimento de novo, tenho errado a afinação do Sol

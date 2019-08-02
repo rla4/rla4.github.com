@@ -18,10 +18,14 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Code Like a Girl](https://braziljs.org/blog/code-like-a-girl/): 29 de março, São Paulo - SP
 - [QCon SP](https://qconsp.com/): 06, 07 e 08 de maio, São Paulo - SP
 - [DevDay](https://devday.devisland.com/): 24 de agosto, Belo Horizonte - MG
-- [Brasília Dev Festival](https://twitter.com/bsbdevfestival): 21 de setembro, Brasília - DF
+- [Brasília Dev Festival](https://www.brasiliadevfestival.com.br/): 21 de setembro, Brasília - DF
 
 **Podcasts [pt-br]**
 
+**2019**
+
+- [NerdTech #42](https://jovemnerd.com.br/nerdcast/nerdtech/tecnologias-da-corrida-espacial/), Tecnologias da Corrida Espacial. Agosto, 2019.
+- [Hipsters.tech #159](https://hipsters.tech/seguranca-da-informacao-muito-alem-do-telegram-hipsters-159/), Segurança da Informação: muito além do Telegram. Julho, 2019.
 - [Hipsters.tech #158](https://hipsters.tech/programacao-funcional-e-clojure-hipsters-158/), Programação Funcional e Clojure. Julho, 2019.
 - [Algoritmo G #1](https://www.b9.com.br/111600/algoritmo-g-1-mulher-nao-e-boa-em-exatas/), Mulher não é boa em exatas. Julho, 2019.
 - [Hipsters.tech #156](https://hipsters.tech/vida-e-obra-john-carmack-hipsters-ponto-tech-156/), Vida e Obra: John Carmack. Julho, 2019.
@@ -43,6 +47,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Hipsters.tech #133](https://hipsters.tech/podcasts-jornalismo-e-cbn-hipsters-133/), Podcasts, Jornalismo e CBN. Janeiro 2019.
 - [Hipsters.tech #132](https://hipsters.tech/lua-brasil-e-games-hipsters-132/), Lua, Brasil e Games. Janeiro 2019.
 - [Hipsters.tech #129](https://hipsters.tech/praticas-de-orientacao-a-objetos-hipsters-129/), Práticas de Orientação a Objetos. Janeiro 2019.
+
+**2018**
+
 - [Hipsters.tech #125](https://hipsters.tech/mais-produtividade-hipsters-125/), Mais Produtividade. Dezembro 2018.
 - [Hipsters.tech #124](https://hipsters.tech/trabalhando-na-irlanda-hipsters-124/), Trabalhando na Irlanda. Novembro 2018.
 - [Hipsters.tech #123](https://hipsters.tech/historias-de-black-friday-hipsters-123/), Histórias de Black Friday. Novembro 2018.
@@ -60,6 +67,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Hipsters.tech #92](https://hipsters.tech/ideias-para-tccs-e-projetos-hipsters-92), Ideias para TCCs e Projetos. Abril 2018.
 - [Hipsters.tech #91](https://hipsters.tech/linguagens-funcionais-hipsters-91/), Linguagens Funcionais. Abril 2018.
 - [Hipsters.tech #77](https://hipsters.tech/tendencias-em-tecnologia-para-2018-hipsters-77), Tendências em Tecnologia para 2018. Janeiro 2018.
+
+**2017**
+
 - [NerdTech #19](https://jovemnerd.com.br/nerdcast/nerdtech/profissao-programador-3-0/), Profissão Programador 3.0. Setembro 2017.
 - [Hipsters.tech #46](https://hipsters.tech/tecnologias-na-stackoverflow-hipsters-46), Tecnologias na Stack Overflow. Maio 2017.
 - [Reescrevendo um Processador de Mensagens](https://www.youtube.com/watch?v=qP4Jb9UBLsQ), palestra dada no DNAD. Setembro 2015.
