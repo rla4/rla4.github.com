@@ -89,3 +89,14 @@ Esposa ainda internada, mas hoje tive um tempo livre à tarde. Fiz um estudo mai
 - [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): toquei umas 3 vezes, o Si tá caindo meio alto às vezes (o que acaba interferindo na afinação do Dó e do Ré também)
 - [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8): tentei praticar em full speed e errei muito o arco. melhorou quando passei o metrônomo pra 1/2
 - [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM): nem passei do segundo movimento de novo, tenho errado a afinação do Sol
+
+# Dia 15: 05/08/2019
+
+Hoje retomei as aulas na escola de música. Foi uma hora em pé tocando sem parar. O suficiente para eu entender que nada do que tenho feito até agora no sabático me ajudou tanto assim. Preciso aumentar meu tempo de prática por dia pra coluna sofrer menos. Depois da aula, ouvi mais um capítulo do audio-livro [How to Listen to and Understand Great Music](https://www.goodreads.com/book/show/1266284.How_to_Listen_to_and_Understand_Great_Music), dessa vez sobre um estilo musical muito interessante: Fuga! Fugas foram muito populares no período Barroco, em especial as compostas por Bach. A característica mais marcante de uma Fuga é a **polifonia repetitiva**, em que as diferentes vozes repetem o mesmo padrão, transladadas na escala ou com pequenas alterações. A minha favorita é a [Fuga em Dó Menor](https://youtu.be/1GXHjxvSi24?t=77) que Bach descreveu em sua obra prima - O Cravo Bem Temperado. Perceba que a cada nova "voz" que entra na música, o mesmo motivo (ou a mesma sequência de notas) é repetido. Lindo de ouvir!
+
+**Tempo de estudo**: 60min prática + 45min teoria
+
+**Músicas praticadas**:
+
+- Todo o disco 1 do Suzuki. Tudo lindo até chegar ao [Minueto 1 de Bach](https://www.youtube.com/watch?v=1gQ9KRh0YWc), onde SEMPRE me atrapalho. Nesse video, o violinista também não usa o 4o dedo no segundo movimento, o que pra mim configura ROUBAR.
+- [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): eu tava bem cansada, foi a última música da aula, saiu bem ruim dada a tensão no ombro que eu já tava sentindo.
