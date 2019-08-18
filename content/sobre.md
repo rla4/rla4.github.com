@@ -24,6 +24,8 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **2019**
 
+- [Hipsters.tech #161](https://hipsters.tech/pesquisa-na-microsoft-machine-learning-hipsters-161/), Pesquisa na Microsoft: Machine Learning. Agosto, 2019.
+- [Algoritmo G #2](https://www.b9.com.br/112201/algoritmo-g-mulher-nao-curte-tecnologia/), Mulher não curte tecnologia. Agosto, 2019.
 - [NerdTech #42](https://jovemnerd.com.br/nerdcast/nerdtech/tecnologias-da-corrida-espacial/), Tecnologias da Corrida Espacial. Agosto, 2019.
 - [Hipsters.tech #159](https://hipsters.tech/seguranca-da-informacao-muito-alem-do-telegram-hipsters-159/), Segurança da Informação: muito além do Telegram. Julho, 2019.
 - [Hipsters.tech #158](https://hipsters.tech/programacao-funcional-e-clojure-hipsters-158/), Programação Funcional e Clojure. Julho, 2019.
