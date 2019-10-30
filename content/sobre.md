@@ -24,9 +24,17 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **2019**
 
+- [Hipsters.tech #171](https://hipsters.tech/machine-learning-e-o-mlops-hipsters-171/), Machine Learning e o MLOps. Outubro, 2019.
+- [Hipsters.tech #170](https://hipsters.tech/design-systems-hipsters-170/), Design Systems. Outubro, 2019.
+- [Hipsters.tech #169](https://hipsters.tech/javascript-manual-de-sobrevivencia-2020-hipsters-169/), JavaScript: Manual de Sobrevivência 2020. Outubro, 2019.
+- [Hipsters.tech #168](https://hipsters.tech/cultura-de-aprendizado-hipsters-168/), Cultura de Aprendizado. Outubro, 2019.
+- [Algoritmo G #4](https://www.b9.com.br/shows/mamilos/algoritmo-g-desafios-de-carreira/), Não Precisa de Mulher. Setembro, 2019.
+- [Hipsters.tech #162](https://hipsters.tech/php-moderno-hipsters-162/), PHP Moderno. Agosto, 2019.
 - [Hipsters.tech #161](https://hipsters.tech/pesquisa-na-microsoft-machine-learning-hipsters-161/), Pesquisa na Microsoft: Machine Learning. Agosto, 2019.
+- [Algoritmo G #3](https://www.b9.com.br/shows/mamilos/algoritmo-g-mulher-nao-e-ambiciosa/), Mulher Não é Ambiciosa. Agosto, 2019.
 - [Algoritmo G #2](https://www.b9.com.br/112201/algoritmo-g-mulher-nao-curte-tecnologia/), Mulher não curte tecnologia. Agosto, 2019.
 - [NerdTech #42](https://jovemnerd.com.br/nerdcast/nerdtech/tecnologias-da-corrida-espacial/), Tecnologias da Corrida Espacial. Agosto, 2019.
+- [É Nóia Minha?](https://open.spotify.com/episode/3dymksQ1o0Glp0PfR5dA5R), Ajuda o Povo de Humanas. Agosto, 2019.
 - [Hipsters.tech #159](https://hipsters.tech/seguranca-da-informacao-muito-alem-do-telegram-hipsters-159/), Segurança da Informação: muito além do Telegram. Julho, 2019.
 - [Hipsters.tech #158](https://hipsters.tech/programacao-funcional-e-clojure-hipsters-158/), Programação Funcional e Clojure. Julho, 2019.
 - [Algoritmo G #1](https://www.b9.com.br/111600/algoritmo-g-1-mulher-nao-e-boa-em-exatas/), Mulher não é boa em exatas. Julho, 2019.
