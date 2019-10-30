@@ -100,3 +100,27 @@ Hoje retomei as aulas na escola de música. Foi uma hora em pé tocando sem para
 
 - Todo o disco 1 do Suzuki. Tudo lindo até chegar ao [Minueto 1 de Bach](https://www.youtube.com/watch?v=1gQ9KRh0YWc), onde SEMPRE me atrapalho. Nesse video, o violinista também não usa o 4o dedo no segundo movimento, o que pra mim configura ROUBAR.
 - [Judas Maccabaeus](https://www.youtube.com/watch?v=qksLxX27tVA): eu tava bem cansada, foi a última música da aula, saiu bem ruim dada a tensão no ombro que eu já tava sentindo.
+
+
+# Dia 16: 06/08/2019
+
+O foco hoje foi posicionamento dos dedos na mão esquerda. Isso significa muitos exercícios alternando os padrões, escalas (fiz lá maior, sol maior e ré maior apenas) e nada de ressonâncias pois tive que tocar com a surdina (já era noite, não queria acordar vizinhos).
+
+**Tempo de estudo**: 40min prática
+
+**Músicas praticadas**:
+
+- Nenhuma! Fiquei só mexendo os dedinhos, tipo a musa [Hilary Hahn nesse vídeo](https://www.instagram.com/p/B0R7k8Ng6ni/?utm_source=ig_web_button_share_sheet). Por sinal que belezura esse quarto dedo (vulgo mindinho), ela é muito foda.
+
+# Dia 17: 07/08/2019
+
+Finalmente saí do Hunter's Chorus e entrei no Long Long Ago. O arco é a maior pegadinha dessa música: dois pra cima, dois pra baixo (deve ter um nome oficial pra isso mas não sou tão estudiosa assim). Voltei a estudar leitura também, pois já tava esquecendo a maior parte das notas. O mais fácil é decorar as quatro notas entre as linhas (FACE, de baixo pra cima, na clave de Sol), mas quando a nota "sai" da pauta eu me embanano toda.
+
+**Tempo de estudo**: 21min prática, 22min teórica
+
+**Músicas praticadas**:
+
+- [Musette](https://www.youtube.com/watch?v=5DBC7l7aSQ8)
+- [Hunter's Chorus](https://www.youtube.com/watch?v=DMvkFmKbXmM)
+- [Long Long Ago V2](https://www.youtube.com/watch?v=33ECJxsaD6U)
+
