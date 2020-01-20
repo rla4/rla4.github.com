@@ -22,8 +22,19 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts [pt-br]**
 
+**2020**
+
+- [Hipsters.tech #183](https://hipsters.tech/flutter-hipsters-183/), Flutter. Janeiro, 2020.
+- [NerdTech #47](https://jovemnerd.com.br/nerdcast/nerdtech/rpg-nos-games/), RPG nos games. Janeiro, 2020.
+- [Hipsters.tech #182](https://hipsters.tech/desenvolvedor-full-stack-hipsters-ponto-tech-182/), Desenvolvedor Full Stack. Janeiro, 2020.
+
 **2019**
 
+- [Hipsters.tech #180](https://hipsters.tech/data-science-campeonatos-e-desafios-hipsters-ponto-tech-180/), Data Science, Campeonatos e Desafios. Dezembro, 2019.
+- [Hipsters.tech #177](https://hipsters.tech/kubernetes-hipsters-177/), Kubernetes. Dezembro, 2019.
+- [PodProgramar #69](https://podprogramar.com.br/pp-69-programador-so-se-ferra/), Programador só se ferra. Dezembro, 2019.
+- [Hipsters on the Road #20](https://hipsters.tech/net-core-no-stack-overflow-hipsters-on-the-road-20/), .NET Core no Stack Overflow. Novembro, 2019.
+- [Hipsters.tech #173](https://hipsters.tech/monolitos-hipsters-173/), Monolitos. Novembro, 2019.
 - [Hipsters.tech #171](https://hipsters.tech/machine-learning-e-o-mlops-hipsters-171/), Machine Learning e o MLOps. Outubro, 2019.
 - [Hipsters.tech #170](https://hipsters.tech/design-systems-hipsters-170/), Design Systems. Outubro, 2019.
 - [Hipsters.tech #169](https://hipsters.tech/javascript-manual-de-sobrevivencia-2020-hipsters-169/), JavaScript: Manual de Sobrevivência 2020. Outubro, 2019.
