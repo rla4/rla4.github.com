@@ -10,9 +10,41 @@ Sou desenvolvedora de software há mais de uma década. Desde 2014 faço parte d
 
 Tentei compilar aí embaixo links de palestras e dos podcasts de que participei. Devo tentar manter esta página atualizada sempre que estiver entediada.
 
-<small>*Disclaimer: this will probably be the only paragraph in this site written in English. I really like sharing knowledge and things I've built with various software development communities. That mainly takes the form of speaking at conferences, meetups and podcasts. You can find a number of links to things I've done below.*</small>
+<small>*Disclaimer: this will probably be the only paragraph in this site written in English. I really like sharing knowledge and things I've built with various software development communities. That mainly takes the form of speaking at conferences, meetups and podcasts. You can find links to many things I've done below.*</small>
 
-**Talks e afins - 2019**
+**2020**
+
+
+**Talks e afins**
+
+- [Connection Day](https://connectionday.tech/): live, 19 de maio
+
+**Podcasts**
+
+- [Hipsters.tech #207](https://hipsters.tech/o-hype-do-typescript-hipsters-207/), O Hype do Typescript. Junho, 2020.
+- [Hipsters.tech #206](https://hipsters.tech/design-patterns-hipsters-206/), Design Patterns. Junho, 2020.
+- [Hipsters.tech #205](https://hipsters.tech/opensource-hipsters-205/), Open source. Junho, 2020.
+- [Hipsters.tech #204](https://hipsters.tech/nvidia-gpus-games-e-deep-learning-hipsters-204/), NVidia, GPUs, Games e Deep Learning. Junho, 2020.
+- [Hipsters.tech #203](https://hipsters.tech/deno-o-novo-node-hipsters-203/), Deno, o novo Node? Junho, 2020.
+- [Hipsters.tech #202](https://hipsters.tech/back-end-for-front-end-hipsters-202/), Back-end for Front-end. Maio, 2020.
+- [Hipsters.tech #200](https://hipsters.tech/hipsters-ouvintes-perguntas-e-tecnologia-hipsters-200/), Ouvintes, Perguntas e Tecnologia. Maio, 2020.
+- [Hipsters.tech #199](https://hipsters.tech/node-js-hipsters-199/), Node.js. Maio, 2020.
+- [Hipsters on the Road #31](https://hipsters.tech/monolitos-cultura-e-dia-a-dia-na-alura-hipsters-on-the-road-31/), Monolitos, cultura e dia-a-dia na Alura. Abril, 2020.
+- [Hipsters.tech #196](https://hipsters.tech/cultura-de-dados-e-a-quarentenadados-hipsters-ponto-tech-196/), Cultura de Dados e a #QuarentenaDados. Abril, 2020.
+- [Hipsters.tech #195](https://hipsters.tech/tecnologia-e-computacao-no-combate-ao-virus-hipsters-ponto-tech-195/), Tecnologia e computação no combate ao vírus. Abril, 2020.
+- [Hipsters.tech #194](https://hipsters.tech/guia-do-home-office-hipsters-194/), Guia do home office. Março, 2020.
+- [Hipsters.tech #192](https://hipsters.tech/coronavirus-sequenciamento-genetico-e-bioinformatica-hipsters-ponto-tech-192/), Coronavírus, sequenciamento genético e bioinformática. Março, 2020.
+- [Hipsters.tech #190](https://hipsters.tech/functions-monadas-e-programacao-funcional-hipsters-190/), Functions, mônadas e programação funcional. Março, 2020.
+- [Hipsters.tech #189](https://hipsters.tech/gadgets-uteis-e-inuteis-hipsters-189/), Gadgets úteis e inúteis. Fevereiro, 2020.
+- [Hipsters.tech #187](https://hipsters.tech/sre-site-reliability-engineering-hipsters-187/), SRE: site reliability engineering. Fevereiro, 2020.
+- [Hipsters.tech #186](https://hipsters.tech/algoritmos-e-estrutura-de-dados-hipsters-186/), Algoritmos e estrutura de dados. Fevereiro, 2020.
+- [Hipsters.tech #183](https://hipsters.tech/flutter-hipsters-183/), Flutter. Janeiro, 2020.
+- [NerdTech #47](https://jovemnerd.com.br/nerdcast/nerdtech/rpg-nos-games/), RPG nos games. Janeiro, 2020.
+- [Hipsters.tech #182](https://hipsters.tech/desenvolvedor-full-stack-hipsters-ponto-tech-182/), Desenvolvedor Full Stack. Janeiro, 2020.
+
+**2019**
+
+**Talks e afins**
 
 - [Women Dev Summit](http://womendevsummit.com/): 08 e 09 de março, São Paulo - SP
 - [Code Like a Girl](https://braziljs.org/blog/code-like-a-girl/): 29 de março, São Paulo - SP
@@ -21,14 +53,6 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Brasília Dev Festival](https://www.brasiliadevfestival.com.br/): 21 de setembro, Brasília - DF
 
 **Podcasts [pt-br]**
-
-**2020**
-
-- [Hipsters.tech #183](https://hipsters.tech/flutter-hipsters-183/), Flutter. Janeiro, 2020.
-- [NerdTech #47](https://jovemnerd.com.br/nerdcast/nerdtech/rpg-nos-games/), RPG nos games. Janeiro, 2020.
-- [Hipsters.tech #182](https://hipsters.tech/desenvolvedor-full-stack-hipsters-ponto-tech-182/), Desenvolvedor Full Stack. Janeiro, 2020.
-
-**2019**
 
 - [Hipsters.tech #180](https://hipsters.tech/data-science-campeonatos-e-desafios-hipsters-ponto-tech-180/), Data Science, Campeonatos e Desafios. Dezembro, 2019.
 - [Hipsters.tech #177](https://hipsters.tech/kubernetes-hipsters-177/), Kubernetes. Dezembro, 2019.
