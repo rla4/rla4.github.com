@@ -17,10 +17,19 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
-- [Connection Day](https://connectionday.tech/): live, 19 de maio
+- [Imersão Carreira Tech - Alura](https://www.alura.com.br/imersao-carreira-tech): live, 12 de setembro
+- [Rodrigo Branas #56](https://www.youtube.com/watch?v=-cYsHoUfFwE): live, 27 de agosto
+- [Maratona Full Cycle 4.0](https://www.youtube.com/watch?v=FZnUtpbKdRQ): live, 25 de agosto
+- [EximiaCo, com Elemar Júnior](https://www.youtube.com/watch?v=cFCW6VX0y74): entrevista, 3 de agosto
+- [Connection Day](https://www.youtube.com/watch?v=XHdOlzb67d8): live, 19 de maio
 
 **Podcasts**
 
+- [Hipsters.tech #215](https://hipsters.tech/dev-liquido-a-chegada-hipsters-ponto-tech-215/), Dev Líquido: A Chegada. Agosto, 2020.
+- [Hipsters.tech #214](https://hipsters.tech/the-last-of-us-2-e-localizacao-hipsters-ponto-tech-214/), The Last of Us 2 e Localização. Agosto, 2020.
+- [Hipsters.tech #213](https://hipsters.tech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213/), O Hype do Typescript. Agosto, 2020.
+- [Hipsters.tech #212](https://hipsters.tech/tecnologia-e-cloud-da-microsoft-hipsters-ponto-tech-212/), Tecnologia e Cloud da Microsoft. Agosto, 2020.
+- [Hipsters.tech #210](https://hipsters.tech/scala-hipsters-210/), Scala. Julho, 2020.
 - [Hipsters.tech #207](https://hipsters.tech/o-hype-do-typescript-hipsters-207/), O Hype do Typescript. Junho, 2020.
 - [Hipsters.tech #206](https://hipsters.tech/design-patterns-hipsters-206/), Design Patterns. Junho, 2020.
 - [Hipsters.tech #205](https://hipsters.tech/opensource-hipsters-205/), Open source. Junho, 2020.
