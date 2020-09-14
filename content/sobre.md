@@ -17,6 +17,8 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [DevBr Women Conference](https://www.sympla.com.br/dwc---devbr-women-conference__963066): conferência, 26 de setembro
+- [Octogatos Conf 2020](https://octogatosconf.com/en/): conferência, 25 de setembro
 - [Imersão Carreira Tech - Alura](https://www.alura.com.br/imersao-carreira-tech): live, 12 de setembro
 - [Rodrigo Branas #56](https://www.youtube.com/watch?v=-cYsHoUfFwE): live, 27 de agosto
 - [Maratona Full Cycle 4.0](https://www.youtube.com/watch?v=FZnUtpbKdRQ): live, 25 de agosto
