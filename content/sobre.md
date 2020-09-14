@@ -30,19 +30,24 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Hipsters.tech #215](https://hipsters.tech/dev-liquido-a-chegada-hipsters-ponto-tech-215/), Dev Líquido: A Chegada. Agosto, 2020.
 - [Hipsters.tech #214](https://hipsters.tech/the-last-of-us-2-e-localizacao-hipsters-ponto-tech-214/), The Last of Us 2 e Localização. Agosto, 2020.
 - [Hipsters.tech #213](https://hipsters.tech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213/), O Hype do Typescript. Agosto, 2020.
+- [NerdTech #54](https://jovemnerd.com.br/nerdcast/nerdtech/a-planilha-e-sua-amiga/). A planilha é sua amiga. Agosto, 2020.
 - [Hipsters.tech #212](https://hipsters.tech/tecnologia-e-cloud-da-microsoft-hipsters-ponto-tech-212/), Tecnologia e Cloud da Microsoft. Agosto, 2020.
 - [Hipsters.tech #210](https://hipsters.tech/scala-hipsters-210/), Scala. Julho, 2020.
+- [NerdTech #53](https://jovemnerd.com.br/nerdcast/nerdtech/pagamentos-digitais/), Pagamentos digitais. Julho, 2020.
 - [Hipsters.tech #207](https://hipsters.tech/o-hype-do-typescript-hipsters-207/), O Hype do Typescript. Junho, 2020.
 - [Hipsters.tech #206](https://hipsters.tech/design-patterns-hipsters-206/), Design Patterns. Junho, 2020.
 - [Hipsters.tech #205](https://hipsters.tech/opensource-hipsters-205/), Open source. Junho, 2020.
 - [Hipsters.tech #204](https://hipsters.tech/nvidia-gpus-games-e-deep-learning-hipsters-204/), NVidia, GPUs, Games e Deep Learning. Junho, 2020.
 - [Hipsters.tech #203](https://hipsters.tech/deno-o-novo-node-hipsters-203/), Deno, o novo Node? Junho, 2020.
+- [NerdTech #52](https://jovemnerd.com.br/nerdcast/nerdtech/a-nova-geracao-de-consoles/), A nova geração de consoles toma forma. Junho, 2020.
 - [Hipsters.tech #202](https://hipsters.tech/back-end-for-front-end-hipsters-202/), Back-end for Front-end. Maio, 2020.
 - [Hipsters.tech #200](https://hipsters.tech/hipsters-ouvintes-perguntas-e-tecnologia-hipsters-200/), Ouvintes, Perguntas e Tecnologia. Maio, 2020.
 - [Hipsters.tech #199](https://hipsters.tech/node-js-hipsters-199/), Node.js. Maio, 2020.
+- [NerdTech #51](https://jovemnerd.com.br/nerdcast/nerdtech/o-show-dos-streamings/), O show dos streamings. Maio, 2020.
 - [Hipsters on the Road #31](https://hipsters.tech/monolitos-cultura-e-dia-a-dia-na-alura-hipsters-on-the-road-31/), Monolitos, cultura e dia-a-dia na Alura. Abril, 2020.
 - [Hipsters.tech #196](https://hipsters.tech/cultura-de-dados-e-a-quarentenadados-hipsters-ponto-tech-196/), Cultura de Dados e a #QuarentenaDados. Abril, 2020.
 - [Hipsters.tech #195](https://hipsters.tech/tecnologia-e-computacao-no-combate-ao-virus-hipsters-ponto-tech-195/), Tecnologia e computação no combate ao vírus. Abril, 2020.
+- [NerdTech #50](https://jovemnerd.com.br/nerdcast/nerdtech/a-tecnologia-na-crise/), A tecnologia na crise. Abril, 2020.
 - [Hipsters.tech #194](https://hipsters.tech/guia-do-home-office-hipsters-194/), Guia do home office. Março, 2020.
 - [Hipsters.tech #192](https://hipsters.tech/coronavirus-sequenciamento-genetico-e-bioinformatica-hipsters-ponto-tech-192/), Coronavírus, sequenciamento genético e bioinformática. Março, 2020.
 - [Hipsters.tech #190](https://hipsters.tech/functions-monadas-e-programacao-funcional-hipsters-190/), Functions, mônadas e programação funcional. Março, 2020.
