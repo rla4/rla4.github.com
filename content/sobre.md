@@ -27,9 +27,11 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [NerdTech #56](https://jovemnerd.com.br/nerdcast/nerdtech/vida-em-venus/), Vida em Vênus? Outubro, 2020.
+- [Hipsters.tech #220](https://hipsters.tech/nextjs-hipsters-ponto-tech-220/), Next.js. Setembro, 2020.
 - [Hipsters.tech #215](https://hipsters.tech/dev-liquido-a-chegada-hipsters-ponto-tech-215/), Dev Líquido: A Chegada. Agosto, 2020.
 - [Hipsters.tech #214](https://hipsters.tech/the-last-of-us-2-e-localizacao-hipsters-ponto-tech-214/), The Last of Us 2 e Localização. Agosto, 2020.
-- [Hipsters.tech #213](https://hipsters.tech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213/), O Hype do Typescript. Agosto, 2020.
+- [Hipsters.tech #213](https://hipsters.tech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213/), O Integração Contínua, Deploy Contínuo e GitHub Actions. Agosto, 2020.
 - [NerdTech #54](https://jovemnerd.com.br/nerdcast/nerdtech/a-planilha-e-sua-amiga/). A planilha é sua amiga. Agosto, 2020.
 - [Hipsters.tech #212](https://hipsters.tech/tecnologia-e-cloud-da-microsoft-hipsters-ponto-tech-212/), Tecnologia e Cloud da Microsoft. Agosto, 2020.
 - [Hipsters.tech #210](https://hipsters.tech/scala-hipsters-210/), Scala. Julho, 2020.
