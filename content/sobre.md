@@ -29,6 +29,8 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 - [NerdTech #56](https://jovemnerd.com.br/nerdcast/nerdtech/vida-em-venus/), Vida em Vênus? Outubro, 2020.
 - [Hipsters.tech #220](https://hipsters.tech/nextjs-hipsters-ponto-tech-220/), Next.js. Setembro, 2020.
+- [Hipsters.tech #219](https://hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/), SOLID: Código bom e bonito. Setembro, 2020.
+- [Hipsters.tech #218](https://hipsters.tech/streaming-cinema-e-produto-hipsters-ponto-tech-218/), Streaming, Cinema e Produto. Setembro, 2020.
 - [Hipsters.tech #215](https://hipsters.tech/dev-liquido-a-chegada-hipsters-ponto-tech-215/), Dev Líquido: A Chegada. Agosto, 2020.
 - [Hipsters.tech #214](https://hipsters.tech/the-last-of-us-2-e-localizacao-hipsters-ponto-tech-214/), The Last of Us 2 e Localização. Agosto, 2020.
 - [Hipsters.tech #213](https://hipsters.tech/integracao-continua-deploy-continuo-e-github-actions-hipsters-213/), O Integração Contínua, Deploy Contínuo e GitHub Actions. Agosto, 2020.
@@ -81,6 +83,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Hipsters.tech #170](https://hipsters.tech/design-systems-hipsters-170/), Design Systems. Outubro, 2019.
 - [Hipsters.tech #169](https://hipsters.tech/javascript-manual-de-sobrevivencia-2020-hipsters-169/), JavaScript: Manual de Sobrevivência 2020. Outubro, 2019.
 - [Hipsters.tech #168](https://hipsters.tech/cultura-de-aprendizado-hipsters-168/), Cultura de Aprendizado. Outubro, 2019.
+- [VozesTech #06](https://hexatronic.com.br/2019/09/26/vozestech-06-hipster-tech/), Hipsters.tech. Setembro, 2019.
 - [Algoritmo G #4](https://www.b9.com.br/shows/mamilos/algoritmo-g-desafios-de-carreira/), Não Precisa de Mulher. Setembro, 2019.
 - [Hipsters.tech #162](https://hipsters.tech/php-moderno-hipsters-162/), PHP Moderno. Agosto, 2019.
 - [Hipsters.tech #161](https://hipsters.tech/pesquisa-na-microsoft-machine-learning-hipsters-161/), Pesquisa na Microsoft: Machine Learning. Agosto, 2019.
