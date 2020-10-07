@@ -17,6 +17,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [VII SETIF - Semana da Tecnologia da Informação](https://www.even3.com.br/setif2020/): palestra, 07 de outubro
 - [DevBr Women Conference](https://www.sympla.com.br/dwc---devbr-women-conference__963066): conferência, 26 de setembro
 - [Octogatos Conf 2020](https://octogatosconf.com/en/): conferência, 25 de setembro
 - [Imersão Carreira Tech - Alura](https://www.alura.com.br/imersao-carreira-tech): live, 12 de setembro
