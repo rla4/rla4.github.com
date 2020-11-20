@@ -17,7 +17,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [CBSoft 2020 - Painel](https://www.youtube.com/watch?v=0vlj3E3Bt1U): participação no painel, 22 de outubro
 - [VII SETIF - Semana da Tecnologia da Informação](https://www.even3.com.br/setif2020/): palestra, 07 de outubro
+- [Mais.dev](https://www.youtube.com/watch?v=7zFcFCKot-o): entrevista, 06 de outubro
+- [Desenlatar](https://www.youtube.com/watch?v=2ulwGyfm-HQ): entrevista, 06 de outubro
 - [DevBr Women Conference](https://www.sympla.com.br/dwc---devbr-women-conference__963066): conferência, 26 de setembro
 - [Octogatos Conf 2020](https://octogatosconf.com/en/): conferência, 25 de setembro
 - [Imersão Carreira Tech - Alura](https://www.alura.com.br/imersao-carreira-tech): live, 12 de setembro
@@ -28,6 +31,12 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [Hipsters.tech #226](https://hipsters.tech/distribuicao-de-cerveja-e-tecnologia-hipsters-226/), Distribuição de Cerveja e Tecnologia. Novembro, 2020.
+- [NerdTech #57](https://jovemnerd.com.br/nerdcast/nerdtech/os-titas-da-tecnologia/), Os Titãs da Tecnologia. Novembro, 2020.
+- [Hipsters.tech #225](https://hipsters.tech/ecossistema-mobile-hipsters-225/), Ecossistema Mobile. Novembro, 2020.
+- [Hipsters.tech #224](https://hipsters.tech/de-volta-ao-windows-hipsters-ponto-tech-224/), De volta ao Windows. Outubro, 2020.
+- [Hipsters.tech #223](https://hipsters.tech/telemedicina-e-saude-digital-hipsters-ponto-tech-223/), Telemedicina e Saúde Digital. Outubro, 2020.
+- [Hipsters.tech #222](https://hipsters.tech/tabela-de-hash-hipsters-ponto-tech-222/), Tabela de Hash. Outubro, 2020.
 - [NerdTech #56](https://jovemnerd.com.br/nerdcast/nerdtech/vida-em-venus/), Vida em Vênus? Outubro, 2020.
 - [Hipsters.tech #220](https://hipsters.tech/nextjs-hipsters-ponto-tech-220/), Next.js. Setembro, 2020.
 - [Hipsters.tech #219](https://hipsters.tech/solid-codigo-bom-e-bonito-hipsters-ponto-tech-219/), SOLID: Código bom e bonito. Setembro, 2020.
