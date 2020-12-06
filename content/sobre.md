@@ -17,6 +17,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- DevOps Days Luanda: live, data a definir
+- [DNAD 2020](https://dotnetarchitects.github.io/dnad/): palestra, 5 de dezembro
+- [TDC POA - Painel](https://thedevconf.com/tdc/2020/poaonline/trilha-microservices): painel sobre arquiteturas distribuídas e monolitos, 4 de dezembro
 - [CBSoft 2020 - Painel](https://www.youtube.com/watch?v=0vlj3E3Bt1U): participação no painel, 22 de outubro
 - [VII SETIF - Semana da Tecnologia da Informação](https://www.even3.com.br/setif2020/): palestra, 07 de outubro
 - [Mais.dev](https://www.youtube.com/watch?v=7zFcFCKot-o): entrevista, 06 de outubro
@@ -31,6 +34,8 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+= [Hipsters.tech #229](https://hipsters.tech/mvc-e-outras-siglas-hipsters-229/), MVC e outras siglas. Dezembro, 2020.
+- [Hipsters.tech #228](https://hipsters.tech/historias-de-black-friday-3-hipsters-228/), Histórias de Black Friday 3. Novembro, 2020.
 - [Hipsters.tech #226](https://hipsters.tech/distribuicao-de-cerveja-e-tecnologia-hipsters-226/), Distribuição de Cerveja e Tecnologia. Novembro, 2020.
 - [NerdTech #57](https://jovemnerd.com.br/nerdcast/nerdtech/os-titas-da-tecnologia/), Os Titãs da Tecnologia. Novembro, 2020.
 - [Hipsters.tech #225](https://hipsters.tech/ecossistema-mobile-hipsters-225/), Ecossistema Mobile. Novembro, 2020.
