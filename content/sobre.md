@@ -16,14 +16,14 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
-- [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 09 de abril de 2021
+- [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 9 de abril de 2021
 - [TDC, trilha .NET (painel)](https://thedevconf.com/tdc/2021/innovation/trilha-dot-net), 23 de março de 2021
 - [TDC, trilha .NET (palestra)](https://slides.com/rla4/tdc-2021/), 23 de março de 2021
 - [ScubaDev (video)](https://www.youtube.com/watch?v=98-ww2-Kbd4), 25 de fevereiro de 2021
 
 **Podcasts**
 
-- [Stack Overflow Podcast](https://stackoverflow.blog/2021/03/30/roberta-arcoverde-stack-overflow-teams-building-tests-best-practices/), How we keep Stack Overflow's codebase clean and modern. Março, 2021 (inglês)
+- [Stack Overflow Podcast #325](https://stackoverflow.blog/2021/03/30/roberta-arcoverde-stack-overflow-teams-building-tests-best-practices/), How we keep Stack Overflow's codebase clean and modern. Março, 2021 (inglês)
 - [HIDEV Técnicas #7](https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc), Arquiteturas Escaláveis. Março, 2021.
 - Nerdtech
 - [Hipsters.tech #245](https://hipsters.tech/programacao-pragmatica-e-apaixonada-hipsters-ponto-tech-245/), Programação  Pragmática e Apaixonada. Março, 2021.
@@ -40,7 +40,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
-- DevOps Days Luanda: live, data a definir
+- [DevOps Days Luanda](https://www.youtube.com/watch?v=-dntLfgTh4U): live, 17 de dezembro
 - [DNAD 2020](https://dotnetarchitects.github.io/dnad/): palestra, 5 de dezembro
 - [TDC POA - Painel](https://thedevconf.com/tdc/2020/poaonline/trilha-microservices): painel sobre arquiteturas distribuídas e monolitos, 4 de dezembro
 - [CBSoft 2020 - Painel](https://www.youtube.com/watch?v=0vlj3E3Bt1U): participação no painel, 22 de outubro
