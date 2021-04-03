@@ -6,11 +6,34 @@ menu: "main"
 
 Ohai o/
 
-Sou desenvolvedora de software há mais de uma década. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](https://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre todo tipo de assunto neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação.
+Sou desenvolvedora de software desde 2007. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](https://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre todo tipo de assunto neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação. Em 2021 fui nomeada Microsoft Most Valuable Professional, uma alegria e uma honra.
 
 Tentei compilar aí embaixo links de palestras e dos podcasts de que participei. Devo tentar manter esta página atualizada sempre que estiver entediada.
 
 <small>*Disclaimer: this will probably be the only paragraph in this site written in English. I really like sharing knowledge and things I've built with various software development communities. That mainly takes the form of speaking at conferences, meetups and podcasts. You can find links to many things I've done below.*</small>
+
+**2021**
+
+**Talks e afins**
+
+- [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 09 de abril de 2021
+- [TDC, trilha .NET (painel)](https://thedevconf.com/tdc/2021/innovation/trilha-dot-net), 23 de março de 2021
+- [TDC, trilha .NET (palestra)](https://slides.com/rla4/tdc-2021/), 23 de março de 2021
+- [ScubaDev (video)](https://www.youtube.com/watch?v=98-ww2-Kbd4), 25 de fevereiro de 2021
+
+**Podcasts**
+
+- [Stack Overflow Podcast](https://stackoverflow.blog/2021/03/30/roberta-arcoverde-stack-overflow-teams-building-tests-best-practices/), How we keep Stack Overflow's codebase clean and modern. Março, 2021 (inglês)
+- [HIDEV Técnicas #7](https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc), Arquiteturas Escaláveis. Março, 2021.
+- Nerdtech
+- [Hipsters.tech #245](https://hipsters.tech/programacao-pragmatica-e-apaixonada-hipsters-ponto-tech-245/), Programação  Pragmática e Apaixonada. Março, 2021.
+- [Hipsters.tech #242](https://hipsters.tech/produto-e-tecnologia-hipsters-ponto-tech-242/), Produto e Tecnologia. Março, 2021.
+- [Hipsters.tech #240](https://hipsters.tech/estado-atual-do-devops-hipsters-ponto-tech-240/) Estado Atual do DevOps. Fevereiro, 2021.
+- [ScubaDev #14](https://www.scuba.dev.br/2021/02/11/a-desenvolvedora-estudiosa-roberta-arcoverde-scuba-ponto-dev-14/), A Desenvolvedora Estudiosa. Fevereiro, 2021.
+- [Hipsters.tech #239](https://hipsters.tech/trello-jira-e-ferramentas-de-produtividade-hipsters-ponto-tech-239/), Trello, Jira e Ferramentas de Produtividade. Fevereiro, 2021.
+- [Hipsters.tech #238](https://hipsters.tech/dna-vacinas-e-data-science-hipsters-ponto-tech-238/), DNA, Vacinas e Data Science. Fevereiro, 2021.
+- [Hipsters.tech #236](https://hipsters.tech/evolucao-do-javascript-hipsters-ponto-tech-236/), Evolução do JavaScript. Janeiro, 2021.
+- [Hipsters.tech #235](https://hipsters.tech/mercado-de-tecnologia-em-angola-hipsters-ponto-tech-235/), Mercado de Tecnologia em Angola. Janeiro, 2021.
 
 **2020**
 
@@ -34,7 +57,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
-= [Hipsters.tech #229](https://hipsters.tech/mvc-e-outras-siglas-hipsters-229/), MVC e outras siglas. Dezembro, 2020.
+- [Hipsters.tech #232](https://hipsters.tech/tecnologia-no-cartola-fc-hipsters-ponto-tech-232/), Tecnologia no Cartola FC. Dezembro, 2020.
+- [Hipsters.tech #231](https://hipsters.tech/astronomia-hipsters-ponto-tech-231/), Astronomia e tecnologia. Dezembro, 2020.
+- [Hipsters.tech #230](https://hipsters.tech/quarkus-hipsters-230/), Quarkus. Dezembro, 2020.
+- [Hipsters.tech #229](https://hipsters.tech/mvc-e-outras-siglas-hipsters-229/), MVC e outras siglas. Dezembro, 2020.
 - [Hipsters.tech #228](https://hipsters.tech/historias-de-black-friday-3-hipsters-228/), Histórias de Black Friday 3. Novembro, 2020.
 - [Hipsters.tech #226](https://hipsters.tech/distribuicao-de-cerveja-e-tecnologia-hipsters-226/), Distribuição de Cerveja e Tecnologia. Novembro, 2020.
 - [NerdTech #57](https://jovemnerd.com.br/nerdcast/nerdtech/os-titas-da-tecnologia/), Os Titãs da Tecnologia. Novembro, 2020.
