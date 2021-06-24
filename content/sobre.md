@@ -23,6 +23,14 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [Hipsters.tech #256](https://hipsters.tech/platform-teams-hipsters-ponto-tech-256/), Platform Teams. Junho, 2021.
+- [Hipsters.tech #255](https://hipsters.tech/fluxo-continuo-hipsters-ponto-tech-255/), Fluxo Unificado. Junho, 2021.
+- [Cloud Casters #14](https://cloudcasters.io/pt-br/como-funciona-stack-overflow/), Como funciona: Stack Overflow. Junho, 2021.
+- [Hipsters.tech #254](https://hipsters.tech/clean-architeture-hipsters-ponto-tech-254/), Clean Architecture. Maio, 2021.
+- [Hipsters.tech #252](https://hipsters.tech/arquitetura-na-uber-hipsters-ponto-tech-252/), Arquitetura na Uber. Maio, 2021.
+- [Hipsters.tech #251](https://hipsters.tech/investimentos-e-inteligencia-artificial-hipsters-ponto-tech-251/), Investimentos e Inteligência Artificial. Maio, 2021.
+- [Hipsters.tech #249](https://hipsters.tech/academia-e-universidade-vs-mercado-e-industria-hipsters-ponto-tech-249/), Academia e Universidade vs Mercado e Indústria. Abril, 2021.
+- [Hipsters.tech #247](https://hipsters.tech/arquitetura-do-pix-e-banco-central-hipsters-ponto-tech-247/), Arquitetura do Pix e Banco Central. Abril, 2021.
 - [Stack Overflow Podcast #325](https://stackoverflow.blog/2021/03/30/roberta-arcoverde-stack-overflow-teams-building-tests-best-practices/), How we keep Stack Overflow's codebase clean and modern. Março, 2021 (inglês)
 - [HIDEV Técnicas #7](https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc), Arquiteturas Escaláveis. Março, 2021.
 - Nerdtech
