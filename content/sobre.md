@@ -6,7 +6,7 @@ menu: "main"
 
 Ohai o/
 
-Sou desenvolvedora de software desde 2007. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](https://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre todo tipo de assunto neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação. Em 2021 fui nomeada Microsoft Most Valuable Professional, uma alegria e uma honra.
+Sou desenvolvedora de software desde 2007. Desde 2014 faço parte do time que mantém [um dos sites mais acessados do mundo](https://stackoverflow.com), trabalhando de casa, em São Paulo. Também sou cohost do [melhor podcast de tecnologia e outras modinhas](https://hipsters.tech/sobre/). Meus interesses são muito diversos, e por isso, posso escrever sobre todo tipo de assunto neste espaço, mas provavelmente o grosso das postagens será sobre o universo da computação. Também sou membro do Alura Stars e Microsoft MVP 2021.
 
 Tentei compilar aí embaixo links de palestras e dos podcasts de que participei. Devo tentar manter esta página atualizada sempre que estiver entediada.
 
@@ -16,6 +16,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- Developer Girls + Jera, Live, 21 de julho de 2021
 - [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 9 de abril de 2021
 - [TDC, trilha .NET (painel)](https://thedevconf.com/tdc/2021/innovation/trilha-dot-net), 23 de março de 2021
 - [TDC, trilha .NET (palestra)](https://slides.com/rla4/tdc-2021/), 23 de março de 2021
