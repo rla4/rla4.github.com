@@ -39,6 +39,7 @@ Também gosto de usar a primeira semana de onboarding pra conhecer melhor meus m
 ## Semanas 2-4
 
 A partir da segunda semana, começamos a cumprir uma agenda de reuniões de onboarding com dezenas de pessoas diferentes da empresa. Essas reuniões normalmente são de 3 tipos: 1:1 pra conhecer alguém, visão geral de outros times da empresa, e overview técnico de alguma área/projeto. Alguns exemplos:
+
 - 1:1 com a CTO
 - 1:1 com o VP de engenharia
 - Visão geral de UX Research, com alguém de UX
