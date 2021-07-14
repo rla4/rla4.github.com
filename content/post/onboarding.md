@@ -1,5 +1,5 @@
 ---
-title: "Como fazemos onboarding"
+title: "Como fazemos onboarding na Stack Overflow"
 date: 2021-07-13T19:35:36-03:00
 tags: ["stack-overflow"]
 ---
