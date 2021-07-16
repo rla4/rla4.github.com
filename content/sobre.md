@@ -16,7 +16,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [Seniortec 2021](https://www.senior.com.br/seniortec/), 27 e 28 de setembro de 2021
 - Developer Girls + Jera, Live, 21 de julho de 2021
+- [Hipsters.talks](https://www.youtube.com/watch?v=Mrjnw-OxLfY), A internet dos anos 2000, 7 de julho de 2021
+- [Live do Vale 02](https://www.youtube.com/watch?v=ivOeZPvDAIc), Canal Peixe Babel, 7 de junho de 2021
 - [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 9 de abril de 2021
 - [TDC, trilha .NET (painel)](https://thedevconf.com/tdc/2021/innovation/trilha-dot-net), 23 de março de 2021
 - [TDC, trilha .NET (palestra)](https://slides.com/rla4/tdc-2021/), 23 de março de 2021
@@ -24,24 +27,31 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [NerdTech #65](https://jovemnerd.com.br/nerdcast/nerdtech/autodefesa-digital/), Autodefesa Digital. Julho, 2021.
+- [Hipsters.tech #259](https://hipsters.tech/nfts-hipsters-ponto-tech-259/), NFTs. Junho, 2021.
+- [Hipsters.tech #257](https://hipsters.tech/comunidade-aprendizagem-e-compartilhamento-alura-stars-hipsters-ponto-tech-257/), Comunidade, Aprendizagem e Compartilhamento: Alura Stars. Junho, 2021.
+- [NerdTech #64](https://jovemnerd.com.br/nerdcast/nerdtech/o-mundo-precisa-de-devs/), O Mundo Precisa de Devs. Maio, 2021.
 - [Hipsters.tech #256](https://hipsters.tech/platform-teams-hipsters-ponto-tech-256/), Platform Teams. Junho, 2021.
 - [Hipsters.tech #255](https://hipsters.tech/fluxo-continuo-hipsters-ponto-tech-255/), Fluxo Unificado. Junho, 2021.
 - [Cloud Casters #14](https://cloudcasters.io/pt-br/como-funciona-stack-overflow/), Como funciona: Stack Overflow. Junho, 2021.
 - [Hipsters.tech #254](https://hipsters.tech/clean-architeture-hipsters-ponto-tech-254/), Clean Architecture. Maio, 2021.
 - [Hipsters.tech #252](https://hipsters.tech/arquitetura-na-uber-hipsters-ponto-tech-252/), Arquitetura na Uber. Maio, 2021.
+- [NerdTech #63](https://jovemnerd.com.br/nerdcast/nerdtech/blockchain-nft-e-a-criptomoeda-do-meme/), Blockchain, NFT e a Criptomoeda do Meme. Maio, 2021.
 - [Hipsters.tech #251](https://hipsters.tech/investimentos-e-inteligencia-artificial-hipsters-ponto-tech-251/), Investimentos e Inteligência Artificial. Maio, 2021.
 - [Hipsters.tech #249](https://hipsters.tech/academia-e-universidade-vs-mercado-e-industria-hipsters-ponto-tech-249/), Academia e Universidade vs Mercado e Indústria. Abril, 2021.
 - [Hipsters.tech #247](https://hipsters.tech/arquitetura-do-pix-e-banco-central-hipsters-ponto-tech-247/), Arquitetura do Pix e Banco Central. Abril, 2021.
 - [Stack Overflow Podcast #325](https://stackoverflow.blog/2021/03/30/roberta-arcoverde-stack-overflow-teams-building-tests-best-practices/), How we keep Stack Overflow's codebase clean and modern. Março, 2021 (inglês)
 - [HIDEV Técnicas #7](https://anchor.fm/hidevpodcast/episodes/Arquiteturas-Escalveis---Roberta-Arcoverde---TCNICAS-7-erbfks/a-a4q4lbc), Arquiteturas Escaláveis. Março, 2021.
-- Nerdtech
+- [NerdTech #61](https://jovemnerd.com.br/nerdcast/nerdtech/aprendendo-a-aprender/), Aprendendo a Aprender. Março, 2021.
 - [Hipsters.tech #245](https://hipsters.tech/programacao-pragmatica-e-apaixonada-hipsters-ponto-tech-245/), Programação  Pragmática e Apaixonada. Março, 2021.
 - [Hipsters.tech #242](https://hipsters.tech/produto-e-tecnologia-hipsters-ponto-tech-242/), Produto e Tecnologia. Março, 2021.
 - [Hipsters.tech #240](https://hipsters.tech/estado-atual-do-devops-hipsters-ponto-tech-240/) Estado Atual do DevOps. Fevereiro, 2021.
+- [NerdTech #60](https://jovemnerd.com.br/nerdcast/nerdtech/a-guerra-dos-processadores/), A Guerra dos Processadores. Fevereiro, 2021.
 - [ScubaDev #14](https://www.scuba.dev.br/2021/02/11/a-desenvolvedora-estudiosa-roberta-arcoverde-scuba-ponto-dev-14/), A Desenvolvedora Estudiosa. Fevereiro, 2021.
 - [Hipsters.tech #239](https://hipsters.tech/trello-jira-e-ferramentas-de-produtividade-hipsters-ponto-tech-239/), Trello, Jira e Ferramentas de Produtividade. Fevereiro, 2021.
 - [Hipsters.tech #238](https://hipsters.tech/dna-vacinas-e-data-science-hipsters-ponto-tech-238/), DNA, Vacinas e Data Science. Fevereiro, 2021.
 - [Hipsters.tech #236](https://hipsters.tech/evolucao-do-javascript-hipsters-ponto-tech-236/), Evolução do JavaScript. Janeiro, 2021.
+- [NerdTech #59](https://jovemnerd.com.br/nerdcast/nerdtech/low-code-ou-no-code/), Low Code ou No Code. Janeiro, 2021.
 - [Hipsters.tech #235](https://hipsters.tech/mercado-de-tecnologia-em-angola-hipsters-ponto-tech-235/), Mercado de Tecnologia em Angola. Janeiro, 2021.
 
 **2020**
