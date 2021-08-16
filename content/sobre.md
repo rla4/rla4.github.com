@@ -17,7 +17,11 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 **Talks e afins**
 
 - [Seniortec 2021](https://www.senior.com.br/seniortec/), 27 e 28 de setembro de 2021
-- Developer Girls + Jera, Live, 21 de julho de 2021
+- [Codecon](https://codecon.dev/), 25 de setembro de 2021
+- [TDC Transformation, trilha.NET (painel)](https://thedevconf.com/tdc/2021/transformation/trilha-dot-net), 24 de agosto de 2021
+- [DevOps Extreme](https://www.linuxtips.io/devops-extreme), 13 de agosto de 2021
+- [Fechatag](https://www.youtube.com/watch?v=QlbY7kxSsbo), 5 de agosto de 2021
+- [Developer Girls + Jera, Live](https://www.sympla.com.br/mulheres-que-inspiram-a-trajetoria-de-roberta-arcoverde-tech-lead-na-stack-overflow__1277157), 21 de julho de 2021
 - [Hipsters.talks](https://www.youtube.com/watch?v=Mrjnw-OxLfY), A internet dos anos 2000, 7 de julho de 2021
 - [Live do Vale 02](https://www.youtube.com/watch?v=ivOeZPvDAIc), Canal Peixe Babel, 7 de junho de 2021
 - [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 9 de abril de 2021
@@ -27,6 +31,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [NerdTech #65](https://jovemnerd.com.br/nerdcast/nerdtech/ux-no-pop-up-dos-outros-e-refresco/), UX no Pop-up dos Outros é Refresco. Agosto, 2021.
+- [Tech Leadership Rocks #45](https://techleadership.rocks/2021/08/08/onboarding-de-devs-com-roberta-arcoverde/), Onboarding de devs. Agosto, 2021.
+- [Hipsters.tech #264](https://hipsters.tech/silvio-meira-hipsters-ponto-tech-264/), Silvio Meira! Agosto, 2021.
+- [Hipsters.tech #263](https://hipsters.tech/entrevistas-tecnicas-hipsters-ponto-tech-263/), Entrevistas Técnicas. Julho, 2021.
 - [NerdTech #65](https://jovemnerd.com.br/nerdcast/nerdtech/autodefesa-digital/), Autodefesa Digital. Julho, 2021.
 - [Hipsters.tech #259](https://hipsters.tech/nfts-hipsters-ponto-tech-259/), NFTs. Junho, 2021.
 - [Hipsters.tech #257](https://hipsters.tech/comunidade-aprendizagem-e-compartilhamento-alura-stars-hipsters-ponto-tech-257/), Comunidade, Aprendizagem e Compartilhamento: Alura Stars. Junho, 2021.
