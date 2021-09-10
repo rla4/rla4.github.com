@@ -16,8 +16,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
-- [Seniortec 2021](https://www.senior.com.br/seniortec/), 27 e 28 de setembro de 2021
-- [Codecon](https://codecon.dev/), 25 de setembro de 2021
+- [Seniortec 2021](https://www.senior.com.br/seniortec/), keynote: Qualidade de Código, 27 e 28 de setembro de 2021
+- [Codecon](https://codecon.dev/), painel: desenvolvedores Staff+, 25 de setembro de 2021
+- [Code Your Way](https://codeyourway.ebanx.com), painel: Software Architecture & Design, 16 de setembro de 2021
+- [Tech Leadership Rocks ao Vivo #50](https://www.sympla.com.br/o-quao-tecnico-devem-ser-os-engineering-managers---tech-leadership-rocks-ao-vivo---50__1340809), 13 de setembro de 2021
 - [TDC Transformation, trilha.NET (painel)](https://thedevconf.com/tdc/2021/transformation/trilha-dot-net), 24 de agosto de 2021
 - [DevOps Extreme](https://www.linuxtips.io/devops-extreme), 13 de agosto de 2021
 - [Fechatag](https://www.youtube.com/watch?v=QlbY7kxSsbo), 5 de agosto de 2021
