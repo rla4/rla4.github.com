@@ -33,6 +33,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [Braincast #423](https://www.b9.com.br/shows/braincast/braincast-423-programacao-e-a-nova-alfabetizacao/), Programação é a Nova Alfabetização? Setembro, 2021.
+- [NerdTech #67](https://jovemnerd.com.br/nerdcast/nerdtech/game-dev-por-tras-do-codigo/), Game DEV: por trás do código. Setembro, 2021.
+- [Hipsters.tech #267](https://hipsters.tech/react-native-vs-flutter-hipsters-ponto-tech-267/), React Native vs Flutter. Agosto, 2021.
+- [Hipsters.tech #266](https://hipsters.tech/programacao-criativa-hipsters-ponto-tech-266/), Programação Criativa. Agosto, 2021.
 - [NerdTech #65](https://jovemnerd.com.br/nerdcast/nerdtech/ux-no-pop-up-dos-outros-e-refresco/), UX no Pop-up dos Outros é Refresco. Agosto, 2021.
 - [Tech Leadership Rocks #45](https://techleadership.rocks/2021/08/08/onboarding-de-devs-com-roberta-arcoverde/), Onboarding de devs. Agosto, 2021.
 - [Hipsters.tech #264](https://hipsters.tech/silvio-meira-hipsters-ponto-tech-264/), Silvio Meira! Agosto, 2021.
