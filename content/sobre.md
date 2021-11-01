@@ -16,6 +16,8 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [III Dia da Ada](https://www.youtube.com/watch?v=ca0IWinM9Gc), Palestra sobre carreira, 20 de outubro de 2021
+- [Hipsters.talks](https://www.youtube.com/watch?v=KMzE6y8ACnU), Fundamentos de microsserviços, 29 de setembro de 2021
 - [Seniortec 2021](https://www.senior.com.br/seniortec/), keynote: Qualidade de Código, 27 e 28 de setembro de 2021
 - [Codecon](https://codecon.dev/), painel: desenvolvedores Staff+, 25 de setembro de 2021
 - [Code Your Way](https://codeyourway.ebanx.com), painel: Software Architecture & Design, 16 de setembro de 2021
@@ -26,7 +28,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Developer Girls + Jera, Live](https://www.sympla.com.br/mulheres-que-inspiram-a-trajetoria-de-roberta-arcoverde-tech-lead-na-stack-overflow__1277157), 21 de julho de 2021
 - [Hipsters.talks](https://www.youtube.com/watch?v=Mrjnw-OxLfY), A internet dos anos 2000, 7 de julho de 2021
 - [Live do Vale 02](https://www.youtube.com/watch?v=ivOeZPvDAIc), Canal Peixe Babel, 7 de junho de 2021
-- [DNA Live](https://www.youtube.com/channel/UCgwUcrq2_ecJJtsJjdZTpIg), 9 de abril de 2021
+- [DNA Live](https://www.youtube.com/watch?v=lQDWTcfvyHw), 9 de abril de 2021
 - [TDC, trilha .NET (painel)](https://thedevconf.com/tdc/2021/innovation/trilha-dot-net), 23 de março de 2021
 - [TDC, trilha .NET (palestra)](https://slides.com/rla4/tdc-2021/), 23 de março de 2021
 - [ScubaDev (video)](https://www.youtube.com/watch?v=98-ww2-Kbd4), 25 de fevereiro de 2021
