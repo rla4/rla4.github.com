@@ -16,20 +16,23 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
-- [CTO Talks #06](https://www.youtube.com/watch?v=Nu2lG_gTbDc), Revelo Community Brazil (Youtube), 8 de junho de 2022
 - [DWC](https://app.ciente.studio/dwc), palestra sobre Qualidade de Código, 27 de maio de 2022
+- [CTO Talks #06](https://www.youtube.com/watch?v=Nu2lG_gTbDc), Revelo Community Brazil (Youtube), 8 de junho de 2022
 - [CodeCon](https://www.codecon.dev/), painel, 23 de setembro de 2022
-- DevLeaders Conference, keynote de abertura, 24 de setembro de 2022
+- Dev Leaders Conference, keynote de abertura, 24 de setembro de 2022
 
 **Podcasts**
 
 - [Hanselminutes #847](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde), Engineering Stack Overflow. Julho, 2022.
+- [Nerdtech #77](https://jovemnerd.com.br/nerdcast/nerdtech/games-monetizados/), Games Monetizados. Julho, 2022.
 - [Hipsters.tech #311](https://www.hipsters.tech/case-farfetch-front-end-hipsters-ponto-tech-311/), Case Farfetch: Front-End. Junho, 2022.
 - [Hipsters.tech #310](https://www.hipsters.tech/case-contabilizei-kotlin-hipsters-ponto-tech-310/), Case Contabilizei: Kotlin. Junho, 2022.
 - [Hipsters.tech #308](https://www.hipsters.tech/case-adyen-machine-learning-e-pagamentos-hipsters-ponto-tech-308/), Case Adyen: Machine Learning e Pagamentos. Junho, 2022.
+- [Nerdtech #76](https://jovemnerd.com.br/nerdcast/nerdtech/lay-off-de-grandes-startups-tirando-o-unicornio-da-chuva/), Layoff de Grandes Startups: Tirando o Unicórnio da Chuva. Junho, 2022.
 - [Hipsters.tech #307](https://www.hipsters.tech/case-banco-pan-cloud-e-microsservicos-hipsters-ponto-tech-306/), Case Banco Pan: Cloud e Microsserviços. Maio, 2022.
 - [Hipsters.tech #305](https://www.hipsters.tech/mongodb-hipsters-ponto-tech-305/), MongoDB. Maio, 2022.
 - [Hipsters.tech #304](https://www.hipsters.tech/github-e-nossas-funcionalidades-preferidas-hipsters-ponto-tech-304/), GitHub e Nossas Funcionalidades Preferidas. Maio, 2022.
+- [Nerdtech #74](https://jovemnerd.com.br/nerdcast/nerdtech/whatsapp-mirc-msn-e-icq-querem-tc/), WhatsApp, mIRC, MSN e ICQ. Abril, 2022.
 
 **2021**
 
