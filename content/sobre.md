@@ -38,6 +38,7 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Talks e afins**
 
+- [Hipsters.tube](https://www.youtube.com/watch?v=57VqgNjbzrg), Estrutura de Dados, 30 de novembro de 2021.
 - [III Dia da Ada](https://www.youtube.com/watch?v=ca0IWinM9Gc), Palestra sobre carreira, 20 de outubro de 2021
 - [Hipsters.talks](https://www.youtube.com/watch?v=KMzE6y8ACnU), Fundamentos de microsserviços, 29 de setembro de 2021
 - [Seniortec 2021](https://www.senior.com.br/seniortec/), keynote: Qualidade de Código, 27 e 28 de setembro de 2021
@@ -57,6 +58,11 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 **Podcasts**
 
+- [NerdTech #70](https://jovemnerd.com.br/nerdcast/nerdtech/desdobrando-o-metaverso/), Desdobrando o Metaverso. Dezembro, 2021.
+- [Hipsters.tech #280](https://www.hipsters.tech/historias-de-black-friday-4-hipsters-ponto-tech-280/), Histórias de Black Friday 4. Novembro, 2021.
+- [NerdTech #69](https://jovemnerd.com.br/nerdcast/nerdtech/o-tropeco-na-tomada-das-redes-sociais/), O tropeço na tomada das redes sociais. Novembro, 2021.
+- [Hipsters.tech #277](https://www.hipsters.tech/uma-linguagem-para-cada-combate-hipsters-ponto-tech-277/), Monolitos. Novembro, 2021.
+- [NerdTech #68](https://jovemnerd.com.br/nerdcast/nerdtech/o-browser-comeu-o-meu-sistema-operacional/), O browser comeu o meu sistema operacional? Outubro, 2021.
 - [Braincast #423](https://www.b9.com.br/shows/braincast/braincast-423-programacao-e-a-nova-alfabetizacao/), Programação é a Nova Alfabetização? Setembro, 2021.
 - [NerdTech #67](https://jovemnerd.com.br/nerdcast/nerdtech/game-dev-por-tras-do-codigo/), Game DEV: por trás do código. Setembro, 2021.
 - [Hipsters.tech #267](https://hipsters.tech/react-native-vs-flutter-hipsters-ponto-tech-267/), React Native vs Flutter. Agosto, 2021.
