@@ -18,8 +18,10 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 
 - [DWC](https://app.ciente.studio/dwc), palestra sobre Qualidade de Código, 27 de maio de 2022
 - [CTO Talks #06](https://www.youtube.com/watch?v=Nu2lG_gTbDc), Revelo Community Brazil (Youtube), 8 de junho de 2022
+- [PrograMaria Sprint - Tech Leads](https://vamosjuntes.programaria.org/sprint-tech-leads), evento online, 18 de julho de 2022
+- [DevCamp 2022](https://devcamp.co/pt-br), keynote na trilha DevRoots, 13 de setembro de 2022
 - [CodeCon](https://www.codecon.dev/), painel, 23 de setembro de 2022
-- Dev Leaders Conference, keynote de abertura, 24 de setembro de 2022
+- [Dev Leaders Conference](https://www.devleaders.com.br/), keynote de abertura, 24 de setembro de 2022
 
 **Podcasts**
 
