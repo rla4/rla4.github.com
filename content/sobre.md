@@ -19,12 +19,14 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [DWC](https://app.ciente.studio/dwc), palestra sobre Qualidade de Código, 27 de maio de 2022
 - [CTO Talks #06](https://www.youtube.com/watch?v=Nu2lG_gTbDc), Revelo Community Brazil (Youtube), 8 de junho de 2022
 - [PrograMaria Sprint - Tech Leads](https://vamosjuntes.programaria.org/sprint-tech-leads), evento online, 18 de julho de 2022
+- [PowerToFly Chat & Learn](https://www.youtube.com/watch?v=5W6Q0hNKaeA), live, 19 de julho de 2022
 - [DevCamp 2022](https://devcamp.co/pt-br), keynote na trilha DevRoots, 13 de setembro de 2022
 - [CodeCon](https://www.codecon.dev/), painel, 23 de setembro de 2022
 - [Dev Leaders Conference](https://www.devleaders.com.br/), keynote de abertura, 24 de setembro de 2022
 
 **Podcasts**
 
+- [Hipsters.tech #315](https://www.hipsters.tech/ecossistema-gamedev-indie-hipsters-ponto-tech-315/), Ecossistema Gamedev Indie. Julho, 2022.
 - [Hanselminutes #847](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde), Engineering Stack Overflow. Julho, 2022.
 - [Nerdtech #77](https://jovemnerd.com.br/nerdcast/nerdtech/games-monetizados/), Games Monetizados. Julho, 2022.
 - [Hipsters.tech #311](https://www.hipsters.tech/case-farfetch-front-end-hipsters-ponto-tech-311/), Case Farfetch: Front-End. Junho, 2022.
@@ -35,6 +37,9 @@ Tentei compilar aí embaixo links de palestras e dos podcasts de que participei.
 - [Hipsters.tech #305](https://www.hipsters.tech/mongodb-hipsters-ponto-tech-305/), MongoDB. Maio, 2022.
 - [Hipsters.tech #304](https://www.hipsters.tech/github-e-nossas-funcionalidades-preferidas-hipsters-ponto-tech-304/), GitHub e Nossas Funcionalidades Preferidas. Maio, 2022.
 - [Nerdtech #74](https://jovemnerd.com.br/nerdcast/nerdtech/whatsapp-mirc-msn-e-icq-querem-tc/), WhatsApp, mIRC, MSN e ICQ. Abril, 2022.
+- [Hipsters.tech #300](https://www.hipsters.tech/melhor-linguagem-de-programacao-hipsters-ponto-tech-300/), Melhor linguagem de programação. Abril, 2022.
+- [Hipsters.tech #296](https://www.hipsters.tech/ecossistemas-golang-hipsters-ponto-tech-296/), Ecossistema Golang. Março, 2022.
+- [Hipsters.tech #293](https://www.hipsters.tech/escassez-de-profissionais-de-tecnologia-e-um-manifesto-para-o-mercado-hipsters-ponto-tech-293/), Escassez de Profissionais de Tecnologia e um Manifesto para o Mercado. Fevereiro, 2022.
 
 **2021**
 
